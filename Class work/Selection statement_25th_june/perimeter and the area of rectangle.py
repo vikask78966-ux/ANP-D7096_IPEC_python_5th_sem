@@ -1,4 +1,4 @@
-'''''' To calculate the perimeter and area of a rectangle. ''''''
+''' To calculate the perimeter and area of a rectangle. '''
 #input the length of the rectangle
 length = float(input("Enter the length of the rectangle: "))
 #validating the length 
